@@ -4,6 +4,8 @@ https://www.lexaloffle.com/bbs/?tid=50312
 
 Michonne's ZomBalad est un jeu développé avec la plateforme PICO-8 et codé en Lua. Il vous plonge dans l'univers post-apocalyptique de Michonne, qui doit se battre contre des hordes de zombies pour survivre.
 
+stack : LUA
+
 Fonctionnalités
 
 - Contrôlez Michonne pour combattre des zombies
